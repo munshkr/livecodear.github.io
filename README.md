@@ -9,4 +9,5 @@
 
 * Encontranos en [slack](https://livecode.slack.com/). [Este es el link para poder registrarse (sin necesidad de invitacion)](http://live-code-slack.herokuapp.com). Channel: #live-coding-argentina.
 * [Lista de lenguajes y herramientas de livecoding](https://github.com/lvm/awesome-livecoding)
+* [Reliable music tempo synchronization over the network](https://github.com/munshkr/temposyncd)
 * [OSC JAM http monitor](https://github.com/sonidosmutantes/osc-party)
